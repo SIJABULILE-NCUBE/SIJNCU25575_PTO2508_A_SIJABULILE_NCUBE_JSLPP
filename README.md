@@ -62,6 +62,7 @@ Users can switch between:
 
 ## ⭐ Priority Feature
 Tasks can have priority levels:
+
 🔴 High  
 🟡 Medium  
 🟢 Low  
