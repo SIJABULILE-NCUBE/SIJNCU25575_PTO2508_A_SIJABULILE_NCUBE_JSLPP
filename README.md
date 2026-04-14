@@ -87,6 +87,7 @@ This makes the project:
 
 ## 📱 Responsive Design
 Works on:
+
 💻 Desktop  
 📱 Tablet  
 📲 Mobile  
