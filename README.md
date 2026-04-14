@@ -96,7 +96,7 @@ The layout adjusts automatically to fit different screen sizes.
 
 ---
 
-## 🧠 What I Learned
+## 🧠 What I Learnt
 - How to build a real working app  
 - How to fetch data from an API  
 - How to store data using localStorage  
