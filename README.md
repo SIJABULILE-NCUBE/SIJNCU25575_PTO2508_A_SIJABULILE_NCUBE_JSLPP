@@ -23,7 +23,7 @@ Tasks are fetched from an online API:
 https://jsl-kanban-api.vercel.app/
 
 - Users see a loading message while data loads  
-- If there is a problem, an error message is displayed  
+- If there is a problem, an error message will be displayed  
 
 ## 💾 Local Storage
 Tasks are saved in the browser using localStorage.
